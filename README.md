@@ -5,6 +5,7 @@ You can display stuff on it by making a change in the code.
 #
 The code will by like this
 #
+```JavaScript
 var image = {
   colors: [
     "#ff0000",
@@ -18,4 +19,4 @@ var image = {
     0, 1, 0, 0, 0
   ]
 };
-#
+```
