@@ -20,5 +20,7 @@ var image = {
   ]
 };
 ```
+<br>
 <hr>
+<br>
 Hopefully This is Helpful
