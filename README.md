@@ -23,4 +23,4 @@ var image = {
 <br>
 <hr>
 <br>
-Hopefully This is Helpful
+Hopefully This is Helpful, Thank you.
